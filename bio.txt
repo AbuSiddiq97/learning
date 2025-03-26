@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my name is siddiq,,,
 hii
+=======
+my name is siddiq
+>>>>>>> 7ff16b9 (newly.txt)
